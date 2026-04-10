@@ -1,2 +1,2 @@
-# LU_BigData_2023
+# LU BigData
 Python lectures for the Big Data course at the University of Latvia
