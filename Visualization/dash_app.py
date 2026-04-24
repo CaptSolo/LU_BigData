@@ -1,3 +1,6 @@
+
+# make sure the required libraries (Dash, ...) are installed
+
 import dash
 from dash import dcc, html, Input, Output, dash_table
 import pandas as pd
